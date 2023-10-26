@@ -1,0 +1,17 @@
+E:\K\8866\8866\bin\Debug\8866.exe.config
+E:\K\8866\8866\bin\Debug\8866.exe
+E:\K\8866\8866\bin\Debug\8866.pdb
+E:\K\8866\8866\bin\Debug\8866.xml
+E:\K\8866\8866\obj\Debug\8866.vbproj.AssemblyReference.cache
+E:\K\8866\8866\obj\Debug\_8866.Form1.resources
+E:\K\8866\8866\obj\Debug\_8866.Resources.resources
+E:\K\8866\8866\obj\Debug\8866.vbproj.GenerateResource.cache
+E:\K\8866\8866\obj\Debug\8866.vbproj.CoreCompileInputs.cache
+E:\K\8866\8866\obj\Debug\8866.exe
+E:\K\8866\8866\obj\Debug\8866.xml
+E:\K\8866\8866\obj\Debug\8866.pdb
+E:\K\8866\8866\obj\Debug\_8866.Form2.resources
+E:\K\8866\8866\obj\Debug\_8866.Form3.resources
+E:\K\8866\8866\obj\Debug\_8866.Form4.resources
+E:\K\8866\8866\obj\Debug\_8866.Form5.resources
+E:\K\8866\8866\obj\Debug\_8866.Form6.resources
