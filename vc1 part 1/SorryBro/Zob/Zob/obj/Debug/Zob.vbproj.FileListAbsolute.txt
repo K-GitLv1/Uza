@@ -1,0 +1,12 @@
+E:\SorryBro\Zob\Zob\bin\Debug\Zob.exe.config
+E:\SorryBro\Zob\Zob\bin\Debug\Zob.exe
+E:\SorryBro\Zob\Zob\bin\Debug\Zob.pdb
+E:\SorryBro\Zob\Zob\bin\Debug\Zob.xml
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.vbproj.AssemblyReference.cache
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.Resources.resources
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.vbproj.GenerateResource.cache
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.vbproj.CoreCompileInputs.cache
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.exe
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.xml
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.pdb
+E:\SorryBro\Zob\Zob\obj\Debug\Zob.Form1.resources
