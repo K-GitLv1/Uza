@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62DF7029-A123-4674-B3A2-ED76E436F7FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>week2.My.MyApplication</StartupObject>
+    <RootNamespace>week2</RootNamespace>
+    <AssemblyName>week2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>week2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>week2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="work1.Designer.vb">
+      <DependentUpon>work1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work10.Designer.vb">
+      <DependentUpon>work10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work11.Designer.vb">
+      <DependentUpon>work11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work12.Designer.vb">
+      <DependentUpon>work12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work2.Designer.vb">
+      <DependentUpon>work2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work3.Designer.vb">
+      <DependentUpon>work3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work4.Designer.vb">
+      <DependentUpon>work4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work5.Designer.vb">
+      <DependentUpon>work5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work6.Designer.vb">
+      <DependentUpon>work6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work7.Designer.vb">
+      <DependentUpon>work7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work8.Designer.vb">
+      <DependentUpon>work8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work9.Designer.vb">
+      <DependentUpon>work9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="work9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work1.resx">
+      <DependentUpon>work1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work10.resx">
+      <DependentUpon>work10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work11.resx">
+      <DependentUpon>work11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work12.resx">
+      <DependentUpon>work12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work2.resx">
+      <DependentUpon>work2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work3.resx">
+      <DependentUpon>work3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work4.resx">
+      <DependentUpon>work4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work5.resx">
+      <DependentUpon>work5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work6.resx">
+      <DependentUpon>work6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work7.resx">
+      <DependentUpon>work7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work8.resx">
+      <DependentUpon>work8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work9.resx">
+      <DependentUpon>work9.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
