@@ -1,0 +1,39 @@
+C:\Users\IT-542\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\IT-542\source\repos\login\login\bin\Debug\login.exe
+C:\Users\IT-542\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\IT-542\source\repos\login\login\bin\Debug\login.xml
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.Form1.resources
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.frmmain.resources
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.Resources.resources
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.exe
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.xml
+C:\Users\IT-542\source\repos\login\login\obj\Debug\login.pdb
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\bin\Debug\login.exe.config
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\bin\Debug\login.exe
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\bin\Debug\login.pdb
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\bin\Debug\login.xml
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.Form1.resources
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.frmmain.resources
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.Resources.resources
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.exe
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.xml
+C:\Users\IT-542\Downloads\login-20231116T052822Z-001\login\login\obj\Debug\login.pdb
+C:\k\work\vc1 part 2\week5\login\bin\Debug\login.exe.config
+C:\k\work\vc1 part 2\week5\login\bin\Debug\login.exe
+C:\k\work\vc1 part 2\week5\login\bin\Debug\login.pdb
+C:\k\work\vc1 part 2\week5\login\bin\Debug\login.xml
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.vbproj.AssemblyReference.cache
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.Form1.resources
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.frmmain.resources
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.Resources.resources
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.vbproj.GenerateResource.cache
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.exe
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.xml
+C:\k\work\vc1 part 2\week5\login\obj\Debug\login.pdb
