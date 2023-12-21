@@ -1,0 +1,13 @@
+C:\k\work\vc1 part 2\week10 zob\week10 zob\bin\Debug\week10 zob.exe.config
+C:\k\work\vc1 part 2\week10 zob\week10 zob\bin\Debug\week10 zob.exe
+C:\k\work\vc1 part 2\week10 zob\week10 zob\bin\Debug\week10 zob.pdb
+C:\k\work\vc1 part 2\week10 zob\week10 zob\bin\Debug\week10 zob.xml
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10 zob.vbproj.AssemblyReference.cache
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10_zob.Form1.resources
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10_zob.Resources.resources
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10 zob.vbproj.GenerateResource.cache
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10 zob.vbproj.CoreCompileInputs.cache
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10 zob.exe
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10 zob.xml
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10 zob.pdb
+C:\k\work\vc1 part 2\week10 zob\week10 zob\obj\Debug\week10_zob.Form2.resources

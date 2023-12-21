@@ -1,0 +1,28 @@
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week 7.vbproj.AssemblyReference.cache
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week_7.Form1.resources
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week_7.Resources.resources
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week 7.vbproj.GenerateResource.cache
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week 7.vbproj.CoreCompileInputs.cache
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\bin\Debug\Week 7.exe.config
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\bin\Debug\Week 7.exe
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\bin\Debug\Week 7.pdb
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\bin\Debug\Week 7.xml
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week 7.exe
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week 7.xml
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week 7.pdb
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week_7.Form2.resources
+C:\Users\IT-542\Documents\Pinit 020\Week 7\Week 7\obj\Debug\Week_7.Form3.resources
+C:\k\work\vc1 part 2\Week7\Week 7\bin\Debug\Week 7.exe.config
+C:\k\work\vc1 part 2\Week7\Week 7\bin\Debug\Week 7.exe
+C:\k\work\vc1 part 2\Week7\Week 7\bin\Debug\Week 7.pdb
+C:\k\work\vc1 part 2\Week7\Week 7\bin\Debug\Week 7.xml
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week 7.vbproj.AssemblyReference.cache
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week_7.Form1.resources
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week_7.Form2.resources
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week_7.Form3.resources
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week_7.Resources.resources
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week 7.vbproj.GenerateResource.cache
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week 7.vbproj.CoreCompileInputs.cache
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week 7.exe
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week 7.xml
+C:\k\work\vc1 part 2\Week7\Week 7\obj\Debug\Week 7.pdb
